@@ -22,10 +22,29 @@
 
 <div align="center">
 
-<!-- 2. ICÔNES GRAPHIQUES MODERNES (Adaptees aux outils disponibles sur skillicons) -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=supabase,vercel,github&perline=3" />
-</a>
+<!-- Ligne 1 : AI & Models -->
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=4B83F0)
+![Groq](https://img.shields.io/badge/Groq-191919?style=for-the-badge&logo=groq&logoColor=4B83F0)
+![Gemini](https://img.shields.io/badge/Gemini-191919?style=for-the-badge&logo=googlegemini&logoColor=4B83F0)
+
+<br/>
+
+<!-- Ligne 2 : Automation & CRM + Build -->
+![n8n](https://img.shields.io/badge/n8n-191919?style=for-the-badge&logo=n8n&logoColor=FF6D5A)
+![HubSpot](https://img.shields.io/badge/HubSpot-191919?style=for-the-badge&logo=hubspot&logoColor=FF7A59)
+![Vercel](https://img.shields.io/badge/Vercel-191919?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-191919?style=for-the-badge&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-191919?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+
+<br/>
+
+<!-- Ligne 3 : Communication & Ops -->
+![Slack](https://img.shields.io/badge/Slack-191919?style=for-the-badge&logo=slack&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-191919?style=for-the-badge&logo=zoom&logoColor=white)
+![Loom](https://img.shields.io/badge/Loom-191919?style=for-the-badge&logo=loom&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google_Meet-191919?style=for-the-badge&logo=googlemeet&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-191919?style=for-the-badge&logo=lucid&logoColor=F8A51D)
+![Trello](https://img.shields.io/badge/Trello-191919?style=for-the-badge&logo=trello&logoColor=0052CC)
 
 </div>
 
