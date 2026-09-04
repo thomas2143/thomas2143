@@ -11,7 +11,7 @@
 [![Book a call](https://img.shields.io/badge/Book%20a%20call-F59E0B?style=for-the-badge&logo=googlecalendar&logoColor=0A0A0F)](https://koalendar.com/e/rencontrer-thomas-hotton-8)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4B83F0?style=for-the-badge&logo=githubpages&logoColor=0A0A0F)](https://thomas2143.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-hotton)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=F59E0B)](mailto:thomas.hotton@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=F59E0B)](mailto:thomashotton@gmail.com)
 
 </div>
 
@@ -39,7 +39,7 @@
 <td width="60%" valign="top">
 
 **🧭 [TechDrive](https://thomas2143.github.io/TechDrive/)** — ticket routing with statistical guarantees (conformal prediction), built in response to an Astana Hub brief
-<br><sub>Python · conformal prediction · confidence calibration</sub> · [code](https://github.com/thomas2143/TechDrive)
+<br><sub>Python · conformal prediction · confidence calibration · [code](https://github.com/thomas2143/TechDrive)</sub>
 
 </td>
 <td valign="top">
@@ -165,13 +165,5 @@
 <div align="center">
 
 [![Certifications](https://img.shields.io/badge/certifications-27%20(14%20Anthropic%20%2B%208%20HubSpot)-F59E0B?style=for-the-badge&labelColor=0A0A0F)](https://thomas2143.github.io/Portfolio/)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0A0A0F&height=120&section=footer" />
 
 </div>
