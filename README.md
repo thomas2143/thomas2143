@@ -22,9 +22,9 @@
 
 <div align="center">
 
-<!-- 2. ICÔNES GRAPHIQUES MODERNES -->
+<!-- 2. ICÔNES GRAPHIQUES MODERNES (Adaptees aux outils disponibles sur skillicons) -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=supabase,vercel,github,slack,ts,python,postgres,postman,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=supabase,vercel,github&perline=3" />
 </a>
 
 </div>
