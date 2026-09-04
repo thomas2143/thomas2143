@@ -56,14 +56,41 @@
 
 ---
 
-### 🛠 Tools & Environment
+### 🛠 Tools & Stack
 
 <div align="center">
 
-<!-- 2. ICÔNES GRAPHIQUES MODERNES -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,js,ts,postgres,supabase,vercel,github,postman,vscode&perline=5" />
-</a>
+**AI & Models**  
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F59E0B?style=flat-square&logo=groq&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E7CC3?style=flat-square&logo=googlegemini&logoColor=white)
+
+<br/>
+
+**Automation & CRM**  
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+
+<br/>
+
+**Build & Deploy**  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+<br/>
+
+**Communication**  
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white)
+![Loom](https://img.shields.io/badge/Loom-625DF5?style=flat-square&logo=loom&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google_Meet-00897B?style=flat-square&logo=googlemeet&logoColor=white)
+
+<br/>
+
+**Design & Ops**  
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F8A51D?style=flat-square&logo=lucid&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 </div>
 
@@ -73,12 +100,10 @@
 
 <div align="center">
 
-<!-- 3. GRAPHIQUE DES LANGAGES / COMPETENCES -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas2143&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- 4. GRAPHIQUE D'ACTIVITÉ EN RELIEF / ISOMÉTRIQUE -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomas2143&theme=react-dark&bg_color=0D1117&color=4B83F0&line=4B83F0&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
