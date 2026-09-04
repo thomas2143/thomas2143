@@ -105,7 +105,7 @@
 <td width="60%" valign="top">
 
 **🔌 [HubSpot Custom Objects API](https://github.com/thomas2143/thomas-hotton-iwh-i-practicum)** — full CRUD on a HubSpot custom object via the CRM REST API v3
-<br><sub>Node / Express · Pug · hand-written integration code</sub>
+<br><sub>Node / Express · Pug · directed via Claude, not hand-coded</sub>
 
 </td>
 <td valign="top">
@@ -153,17 +153,7 @@
 
 **Build & infra**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0A0A0F)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0F)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0F)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0A0A0F)
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Certifications](https://img.shields.io/badge/certifications-27%20(14%20Anthropic%20%2B%208%20HubSpot)-F59E0B?style=for-the-badge&labelColor=0A0A0F)](https://thomas2143.github.io/Portfolio/)
 
 </div>
