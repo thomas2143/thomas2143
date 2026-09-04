@@ -13,8 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-hotton)
 [![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=F59E0B)](mailto:thomas.hotton@gmail.com)
 
-<sub>📍 UTC+5 (relocating to Almaty) &nbsp;·&nbsp; 🗣 FR / EN / RU (learning)</sub>
-
 </div>
 
 <br>
@@ -30,7 +28,7 @@
 
 <br>
 
-🔭 **Currently:** deploying TechDrive and iterating on Meridian CA · *last updated: September 2026*
+🔭 **Currently:** Recently finished deploying TechDrive and Meridian CA · *last updated: September 2026*
 
 <br>
 
@@ -132,9 +130,7 @@
      https://github-readme-stats.vercel.app/api?username=thomas2143&show_icons=true&theme=dark should show a real
      card, not an error page. -->
 
-<!-- Optional: animated contribution snake. Uncomment once the GitHub Action in snake-workflow.yml is running on this repo.
 <img src="https://raw.githubusercontent.com/thomas2143/thomas2143/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
--->
 
 </div>
 
@@ -175,10 +171,6 @@
 ---
 
 <div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/thomas2143?style=for-the-badge&color=1a1a2e&labelColor=1a1a2e&logo=github&logoColor=F59E0B)](https://github.com/thomas2143?tab=followers)
-
-![Profile views](https://komarev.com/ghpvc/?username=thomas2143&color=4B83F0&style=flat-square)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0A0A0F&height=120&section=footer" />
 
