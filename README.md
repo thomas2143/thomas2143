@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,100:1a1a2e&height=200&section=header&text=Thomas%20Hotton&fontSize=46&fontColor=F59E0B&fontAlignY=32&desc=AI%20Automation%20Architect%20%C2%B7%20Business%20Systems%20%26%20AI%20Analyst&descAlignY=55&descSize=16&descColor=4B83F0&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,100:1a1a2e&height=150&section=header&text=Thomas%20Hotton&fontSize=46&fontColor=F59E0B&fontAlignY=45&animation=fadeIn" />
 
 **I turn messy business processes into practical systems, automations, and AI solutions.**
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=16&pause=1400&color=4B83F0&center=true&vCenter=true&width=650&height=35&repeat=false&lines=%2B194%25+%26+%2B187%25+NRR+across+two+B2B+portfolios;%2B%E2%82%AC400K+in+revenue+generated+over+3.5+years;%E2%82%AC42K+recovered+on+unpaid+invoices" alt="Key metrics" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&height=40&repeat=false&lines=AI+Automation+Engineer+%7C+Business+Systems+%26+AI+Analyst" alt="Role" />
 
 <br>
 
@@ -124,12 +124,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thomas2143&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=F59E0B&icon_color=4B83F0&text_color=e5e7eb&ring_color=4B83F0" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas2143&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=F59E0B&text_color=e5e7eb&langs_count=8" height="165" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com/?user=thomas2143&theme=dark&hide_border=true&background=0A0A0F&ring=4B83F0&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=4B83F0&dates=6b7280" alt="GitHub streak stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=thomas2143&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&row=1" alt="GitHub trophies" />
+<!-- github-readme-stats.vercel.app and github-profile-trophy.vercel.app are left out on purpose: as of Sept 2026 both
+     free public instances are intermittently returning errors (Vercel usage cap on the maintainers' side, not
+     something wrong with this file). If you want them back later, check they're up first: a plain visit to
+     https://github-readme-stats.vercel.app/api?username=thomas2143&show_icons=true&theme=dark should show a real
+     card, not an error page. -->
 
 <!-- Optional: animated contribution snake. Uncomment once the GitHub Action in snake-workflow.yml is running on this repo.
 <img src="https://raw.githubusercontent.com/thomas2143/thomas2143/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
